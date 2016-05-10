@@ -1,2 +1,5 @@
 # marketing
-landing page dev, video background, mobile solution
+
+just getting started
+
+I love cookies
